@@ -219,28 +219,6 @@ main
     color: #000;
   }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 footer
 {
     width: 100%;
@@ -251,14 +229,6 @@ footer
     color: aliceblue;
     padding: 30px 0;
 }
-
-
-
-
-
-
-
-
 
 /* MOBILE */
 @media(max-width: 480px) {
@@ -306,5 +276,4 @@ footer
     .img3-container img {
       width: 100%;
     }
-  
   }
